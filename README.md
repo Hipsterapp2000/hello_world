@@ -1,2 +1,2 @@
 # hello_world
-A basic hello world repository
+A basic hello world repository program
